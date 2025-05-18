@@ -1,0 +1,2 @@
+# stringtie RNA_Aligned.sortedByCoord.out.bam -o transcripts.gtf -p 8
+# StringTie version 3.0.0
